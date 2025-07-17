@@ -1,0 +1,4 @@
+repository "My project/Amigo wtf@4674094950035@cloud"
+  path "/"
+    br "/main"
+    co "/main"
